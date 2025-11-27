@@ -1,8 +1,8 @@
 AI Services Landing Page
 
 A modern and responsive landing page for showcasing AI-powered business solutions. Built with React, featuring service sections, contact form popup with validation, smooth navigation, and clean UI.
-🚀 Live Demo
-
+🚀 Live Demo: 
+https://aiservicelanding.netlify.app/
 📌 Features:
 
 Responsive modern UI
